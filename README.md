@@ -1,5 +1,5 @@
 # Realism-pack
-*Notice: the Tampermoney version may not work properly. If this is the case, please try the bookmarklet version if you are able to.*
+*Notice: The tampermonkey version no longer works*
 
 **THIS ADDON WILL NO LONGER BE UPDATED EXCEPT OCCASIONAL BUG FIXES. I am developing a new system that gives you more control over the mods.**</br>
 
@@ -11,10 +11,6 @@ You can review the full list of additional features and changes below.
 *If you want to run the bookmarklet version:*
 - Watch this YouTube video: https://www.youtube.com/watch?v=TNDEesTbKc4.
 - Follow that tutorial, but set the contents of bookmarklet.js as the URL.
-
-*If you want to run the Tampermonkey version:*
-- Make sure you have Tampermonkey installed
-- Add tampermonkey-code.js as a new userscript
 
 You'll never have to worry about updating your copy of the addon.
 
@@ -52,7 +48,7 @@ Currently includes 8 new aircraft:
 - F-14A Tomcat. Not the same as the F-14B. Has a much more realistic physics model.
 
 *Spoilers arming*<br>
-This allows you to "arm" the spoilers so they automatically deploy on touchdown. The key for this is Shift.
+This allows you to "arm" the spoilers so they automatically deploy on touchdown. The key for this is Shift + B.
 
 Some of these features were originally standalone addons by AriakimTaiyo; these have been marked with an asterisk (*).
 
@@ -91,12 +87,3 @@ What the Realism Pack adds:
 - A machmeter on the HUD
 - Lag reduction
 - Other minor improvements
-
-**IF YOU DISCOVER A BUG OR GLITCH WITH THE ADDON, OR IF YOU WANT TO SUBMIT FEEDBACK OR FEATURE SUGGESTIONS:**
-You can contact me in three ways:
-- Submit an issue under "Issues"
-- Send me a message on my Fandom message wall ( https://geofs.fandom.com/wiki/Message_Wall:NVB9_2 )
-- Send me an email ( coveljulian@gmail.com )
-
-If you're alerting me to a bug/glitch, please let me know of the circumstances that cause the issue, and if it produces a console error please provide a screenshot.</br>
-If you're submitting suggestions, please keep in mind that I may not be able or willing to implement them.
